@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello & Welcome 👋
 
-<!--
-**Frnt-End/Frnt-End** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nice to e-meet you!**
 
-Here are some ideas to get you started:
+My name is Nirit & I enjoy creating accessible, human-centered products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A little bit more..**
+
+I have gained hands-on experience in various skills as Frontend Engineer and as a Web Designer.I'm a curious creature and a relentless problem solver. more than 90% of what I know, I have learned by myself, it is very easy for me to pick up new skills and adapt to changes and new processes.In my work, my biggest achievements is when I’m able to witness a product, that I have been part of his creation, reaching, both, the business goals and the users needs.
+
+**It's all about passion**
+
+I love what I do and I keep learning every day:).
+
+![Creative & Code](https://ibb.co/rbF1ZMz)
