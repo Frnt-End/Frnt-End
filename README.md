@@ -20,7 +20,7 @@ I have gained hands-on experience in various skills as Frontend Engineer and as 
 ## Work Samples:
 
 
-##🌟✨ BRANDING
+## 🌟✨ BRANDING
 
 ![Branding](https://i.ibb.co/ZSt9q4b/3.jpg)
 ![Branding](https://i.ibb.co/NrbjBQt/6.jpg)
@@ -34,7 +34,7 @@ I have gained hands-on experience in various skills as Frontend Engineer and as 
 ![Print](https://i.ibb.co/JnHNQnm/2.jpg)   ![Branding](https://i.ibb.co/jTDzJzf/4.jpg)
 
 ###
-##🖥✨ WEB
+## 🖥✨ WEB
 
 ![Web Design](https://i.ibb.co/VjHG8Y4/3.jpg)
 
