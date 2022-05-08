@@ -26,15 +26,15 @@ I have gained hands-on experience in various skills as Frontend Engineer and as 
 ![Branding](https://i.ibb.co/NrbjBQt/6.jpg)
 ![Branding](https://i.ibb.co/mb3GF2q/4.jpg)
 
-
+###
 ## PRINT
 
 ![Print](https://i.ibb.co/J76GwzK/3.jpg)   ![Branding](https://i.ibb.co/0JXd1SN/5.jpg)
 
 ![Print](https://i.ibb.co/JnHNQnm/2.jpg)   ![Branding](https://i.ibb.co/jTDzJzf/4.jpg)
 
-
-### WEB
+###
+## WEB
 
 ![Web Design](https://i.ibb.co/VjHG8Y4/3.jpg)
 
@@ -42,7 +42,7 @@ I have gained hands-on experience in various skills as Frontend Engineer and as 
 
 ![Web Design](https://i.ibb.co/ctwXtKt/4.jpg)
 
-
+###
 ## Intrigued..?
 
 ### Don't hesitate to Keep in touch:
