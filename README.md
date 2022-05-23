@@ -27,7 +27,7 @@ JavaScript, HTML, CSS, SASS, Jira, Adobe Suite, React, Typescript, Styled Compon
 ###
 ### 🛠 Skills
 
-Marketing, Leadership, Managment, Agile Methodology, Strategic Thinking, Lean UX, Product Development..
+Marketing, Leadership, Management, Agile Methodology, Strategic Thinking, Lean UX, Product Development..
 
 ###
 ###
