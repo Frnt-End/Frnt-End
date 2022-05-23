@@ -17,7 +17,7 @@ Initial experience in the collaboration/coordination of digital projects include
 
 ###
 ###
-### 🛠 Tech Stack
+### ⚙ Tech Stack
 
 JavaScript, HTML, CSS, SASS, Adobe Suite, React, Typescript, Styled Components.
 
@@ -27,11 +27,16 @@ JavaScript, HTML, CSS, SASS, Adobe Suite, React, Typescript, Styled Components.
 
 Marketing, Leadership, Managment, Jira, Agile Methodology, Strategic Thinking, Lean UX, Product Development.
 
+###
+###
+## Feel free to check out my Repos  
+###
+
 
 ###
 ###
 
-## Work Samples:
+## Here are some Graphic Work Samples:
 
 ###
 ## 🌟✨ BRANDING
@@ -61,7 +66,6 @@ Marketing, Leadership, Managment, Jira, Agile Methodology, Strategic Thinking, L
 
 ###
 ###
-## Feel free to check out my Repos  
 ###
 
 
