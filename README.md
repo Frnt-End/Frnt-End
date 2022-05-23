@@ -6,6 +6,8 @@
 ### Nice to e-meet you! 
 
 My name is Nirit & I enjoy creating accessible, human-centered products.
+#### :octocat: Feel free to check out my Repos. 
+
 
 ### A little bit more..
 
@@ -29,7 +31,6 @@ Marketing, Leadership, Managment, Agile Methodology, Strategic Thinking, Lean UX
 
 ###
 ###
-#### :octocat: Feel free to check out my Repos. 
 ###
 
 
@@ -75,10 +76,8 @@ Marketing, Leadership, Managment, Agile Methodology, Strategic Thinking, Lean UX
 ###
 
 ### Don't hesitate to Keep in touch:
-***[LinkedIn](https://www.linkedin.com/in/niritn/).***
+***[My LinkedIn](https://www.linkedin.com/in/niritn/)***
 
-📧
-***nirit.nn@gmail.com***
 
 
 
