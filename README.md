@@ -9,7 +9,7 @@ My name is Nirit & I enjoy creating accessible, human-centered products.
 
 ### A little bit more..
 
-I have gained hands-on experience in various skills as Frontend Engineer and as a Web Designer.I'm a curious creature and a relentless problem solver. more than 90% of what I know, I have learned by myself, it is very easy for me to pick up new skills and adapt to changes and new processes.In my work, my biggest achievements is when I’m able to witness a product, that I have been part of his creation, reaching, both, the business goals and the users needs.
+Initial experience in the collaboration/coordination of digital projects includes hands-on experience as a Frontend Engineer and a Web Designer.I'm a curious creature and a relentless problem solver. more than 90% of what I know, I have learned by myself, it is very easy for me to pick up new skills and adapt to changes and new processes.In my work, my biggest achievements is when I’m able to witness a product, that I have been part of his creation, reaching, both, the business goals and the users needs.
 
 ### 💙 It's all about the passion
 
@@ -19,7 +19,13 @@ I have gained hands-on experience in various skills as Frontend Engineer and as 
 ###
 ### 🛠 Tech Stack
 
-JavaScript, HTML, CSS, SASS, React, Typescript, Styled Components and more.
+JavaScript, HTML, CSS, SASS, Adobe Suite, React, Typescript, Styled Components.
+
+###
+###
+### 🛠 Skills
+
+Marketing, Leadership, Managment, Jira, Agile Methodology, Strategic Thinking, Lean UX, Product Development.
 
 
 ###
