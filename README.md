@@ -1,4 +1,4 @@
-![Creative & Code](https://i.ibb.co/mvbMHt2/main.jpg)
+![Creative & Code](https://i.ibb.co/KxzVZK73/prev.jpg)
 
 
 ## Hello & Welcome 👋
